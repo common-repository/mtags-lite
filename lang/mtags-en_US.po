@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mtags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-01 17:49-0300\n"
+"PO-Revision-Date: 2011-03-01 18:07-0300\n"
+"Last-Translator: wanderlima <wander@wanderlima.com>\n"
+"Language-Team: wanderlima <wordpress@wanderlima.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mtags-editar.php:26
+msgid "Editar"
+msgstr "Edit"
+
+#: mtags-editar.php:32
+#: mtags-opt.php:32
+msgid "Keywords"
+msgstr "Keywords"
+
+#: mtags-editar.php:33
+msgid "Adicione palavras chaves para o seu website separados por vírgula."
+msgstr "Add keywords for your website separated by commas."
+
+#: mtags-editar.php:35
+#: mtags-editar.php:40
+msgid "Limite: 255 caracteres."
+msgstr "Limit: 255 chars limit."
+
+#: mtags-editar.php:37
+msgid "Descrição do Website"
+msgstr "Description of Website"
+
+#: mtags-editar.php:38
+msgid "Adicione uma breve descrição do seu website."
+msgstr "Add a brief description of your website."
+
+#: mtags-editar.php:42
+msgid "Atualização do Site"
+msgstr "Website Update Time"
+
+#: mtags-editar.php:43
+msgid "Selecione honestamente o período que mais se encaixe a suas atualizações."
+msgstr "Select honestly the period that best fit their updates."
+
+#: mtags-editar.php:46
+msgid "Diaria"
+msgstr "Daily"
+
+#: mtags-editar.php:47
+msgid "Semanal"
+msgstr "weekly"
+
+#: mtags-editar.php:48
+msgid "Quinzenal"
+msgstr "bi-weekly"
+
+#: mtags-editar.php:49
+msgid "Mensal"
+msgstr "monthly"
+
+#: mtags-editar.php:50
+msgid "Trimestral"
+msgstr "quarterly"
+
+#: mtags-editar.php:51
+msgid "Semestral"
+msgstr "semiannual"
+
+#: mtags-editar.php:52
+msgid "Anual"
+msgstr "annual"
+
+#: mtags-editar.php:58
+#: mtags-opt.php:68
+msgid "Atualizar"
+msgstr "Update"
+
+#: mtags-lite.php:35
+msgid "Exemplo: agencia,comunicacao,digital"
+msgstr "Example: agency, communication, digital"
+
+#: mtags-lite.php:36
+msgid "Exemplo: Agência de Comunicação Digital em Florianópolis"
+msgstr "Example: Digital Communications Agency in Florianopolis"
+
+#: mtags-lite.php:100
+#: mtags-opt.php:26
+msgid "Opções Avançadas"
+msgstr "Advanced Options"
+
+#: mtags-lite.php:100
+msgid "Opções"
+msgstr "Options"
+
+#: mtags-opt.php:34
+msgid "Qual dos comportamentos abaixo você deseja para suas keywords?"
+msgstr "Which of the following behaviors you want for your keywords?"
+
+#: mtags-opt.php:37
+#: mtags-opt.php:47
+msgid "Padrão"
+msgstr "Default"
+
+#: mtags-opt.php:38
+msgid "Tags + Padrão"
+msgstr "Tags + Default"
+
+#: mtags-opt.php:39
+msgid "Tags"
+msgstr "Tags"
+
+#: mtags-opt.php:42
+msgid "Descrição"
+msgstr "Website Description"
+
+#: mtags-opt.php:44
+msgid "Qual dos comportamentos abaixo você deseja para seus single posts?"
+msgstr "Which of the following behaviors you want for your single posts?"
+
+#: mtags-opt.php:48
+msgid "Resumo + Padrão"
+msgstr "Excerpt + Default"
+
+#: mtags-opt.php:49
+msgid "Resumo"
+msgstr "Excerpt"
+
+#: mtags-opt.php:52
+msgid "Opções adicionais"
+msgstr "Additional Options"
+
+#: mtags-opt.php:54
+msgid "Marque o que não deseja exibir dentro do &lt;head&gt;"
+msgstr "Select what you not want to display inside &lt;head&gt;"
+
+#: mtags-opt.php:57
+msgid "RSD Link"
+msgstr "RSD Link"
+
+#: mtags-opt.php:58
+msgid "WLW Manifest"
+msgstr "WLW Manifest"
+
+#: mtags-opt.php:59
+msgid "WP Generator"
+msgstr "WP Generator"
+
+#: mtags-opt.php:60
+msgid "Start Post Rel Link"
+msgstr "Start Post Rel Link"
+
+#: mtags-opt.php:61
+msgid "Index Rel Link"
+msgstr "Index Rel Link"
+
+#: mtags-opt.php:62
+msgid "Adjacent Post Rel Link"
+msgstr "Adjacent Post Rel Link"
+
+#: mtags-opt.php:73
+msgid "Doação"
+msgstr "Donate"
+
+#: mtags-opt.php:75
+msgid "Pague uma xícara de café caso tenha gostado do plugin e queira contribuir para a continuação do projeto."
+msgstr "Buy a cup of coffee if you liked the plugin and want to contribute to the continuation of the project."
+
+#: mtags-opt.php:77
+msgid "<form target='pagseguro' action='https://pagseguro.uol.com.br/checkout/doacao.jhtml' method='post'><input type='hidden' name='email_cobranca' value='wander@wanderlima.com' /><input type='hidden' name='moeda' value='BRL' /><input type='image' src='https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif' name='submit' alt='Pague com PagSeguro - é rápido, grátis e seguro!' /></form>"
+msgstr "<form action='https://www.paypal.com/cgi-bin/webscr' method='post'><input type='hidden' name='cmd' value='_s-xclick'><input type='hidden' name='encrypted' value='-----BEGIN PKCS7-----MIIHFgYJKoZIhvcNAQcEoIIHBzCCBwMCAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYBNgExjZlgXiTA4YkasMsue8/xRmYYw6y2T31CW9CgsY5IyO4gYrmc0/bN3QlAgOFXKOZD48UedjEozcVKw24EB4d+7Shuz7HPRV0BduTSE7r7UwNg6gPxdB9q2d5GYc5fA08AJW8uSkw6i/YFjrqQlZv9NcKjOV5RhogyST7F1jzELMAkGBSsOAwIaBQAwgZMGCSqGSIb3DQEHATAUBggqhkiG9w0DBwQI1+d92+Je8YyAcOBciXk8URor4A10Z0egx6zv/lnKv+HfLPAENWAL4GQaJS2b3G0nYUDg9xpXW86OBgyvqtomhUkW/PZTrAXWQvBZhzl5B5ANZF1w3uQxxLuP5KTXdGpL+vJFOS4TYqD283lD1IhhA2av7YNd+WZYDBugggOHMIIDgzCCAuygAwIBAgIBADANBgkqhkiG9w0BAQUFADCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wHhcNMDQwMjEzMTAxMzE1WhcNMzUwMjEzMTAxMzE1WjCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMFHTt38RMxLXJyO2SmS+Ndl72T7oKJ4u4uw+6awntALWh03PewmIJuzbALScsTS4sZoS1fKciBGoh11gIfHzylvkdNe/hJl66/RGqrj5rFb08sAABNTzDTiqqNpJeBsYs/c2aiGozptX2RlnBktH+SUNpAajW724Nv2Wvhif6sFAgMBAAGjge4wgeswHQYDVR0OBBYEFJaffLvGbxe9WT9S1wob7BDWZJRrMIG7BgNVHSMEgbMwgbCAFJaffLvGbxe9WT9S1wob7BDWZJRroYGUpIGRMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbYIBADAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAIFfOlaagFrl71+jq6OKidbWFSE+Q4FqROvdgIONth+8kSK//Y/4ihuE4Ymvzn5ceE3S/iBSQQMjyvb+s2TWbQYDwcp129OPIbD9epdr4tJOUNiSojw7BHwYRiPh58S1xGlFgHFXwrEBb3dgNbMUa+u4qectsMAXpVHnD9wIyfmHMYIBmjCCAZYCAQEwgZQwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tAgEAMAkGBSsOAwIaBQCgXTAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0xMDExMjMxMzU0MzBaMCMGCSqGSIb3DQEJBDEWBBQP6zIHercci7MZ0sJ3vQ3RSvJ/ejANBgkqhkiG9w0BAQEFAASBgD4jhLkOxsEA7/g18uwRI2Xckg38PoDlxKdhc0d/JTQoOw4m1JPKsH+m3NiVgYSZ878SHB8knkSsSe2rhiFODr6wJQQniQ+vlTMnXldWmySvGLeJNQwpcvLnMto5yBBYddUhXGMKvHuxW/L5ML/MfewygrqYg/dLS0hFBx/7nrBC-----END PKCS7-----'><input type='image' src='https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif' border='0' name='submit' alt='PayPal - The safer, easier way to pay online!'><img alt='' border='0' src='https://www.paypal.com/pt_BR/i/scr/pixel.gif' width='1' height='1'></form>"
+
